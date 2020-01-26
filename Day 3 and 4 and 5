@@ -1,0 +1,40 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+     <header>
+        <h1>How to make a boiling water with milk</h1>
+        <img src="https://i.imgur.com/Jj5kiDy.jpg"
+        <p>There is nothing else so good than a cup o boiling water. There is my favourite recipe from all of them xD </p>
+    </header>
+    <section>
+        <h2>Ingredients</h2>
+      <ul>
+        <li>500 ml of water (tap water is ok)
+        </li>
+        <li>1 hotpan 
+        </li>
+        <li> 20 ml of milk</li>
+      </ul>
+    </section>
+    <section>
+        <h3>Preparations</h3>
+        <ol>
+          <li>take a hotpan</li>
+          <li>put water in a hotpan</li>
+          <li>put hotpan with water on a stove and turn it on to 5</li>
+          <li>wait 7 minutes till water boil</li>
+          <li>if its boiled add 20 ml off milk</li>
+          <li>water is ready, put it in your favorite cup and enjoy</li>
+        </ol>
+    </section>
+    <footer>
+        <p>Copyright by mtmt enterprises 2020 Berlin</p>
+    </footer>
+    <script src="index.js"></script>
+  </body>
+</html>
